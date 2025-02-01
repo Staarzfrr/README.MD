@@ -25,4 +25,4 @@ Im a Dev In Python , Js , CSS , C++  & HTML
 
 ## 📫 Discords
 
-[![Discord](https://img.shields.io/badge/Join%20Us%20on%20Discord-drex-blue?style=for-the-badge&logo=discord)](https://discord.gg/fedd)
+[![Discord](https://img.shields.io/badge/Join%20Us%20on%20Discord-fedd-blue?style=for-the-badge&logo=discord)](https://discord.gg/fedd)
